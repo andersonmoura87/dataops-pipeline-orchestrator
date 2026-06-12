@@ -1,0 +1,17 @@
+[
+  {
+    "id": "9324",
+    "variavel": "População residente estimada",
+    "unidade": "Pessoas",
+    "resultados": [
+      {
+        "classificacoes": [],
+        "series": [
+          {"localidade": {"id": "11", "nome": "Rondônia"}, "serie": {"2021": "1815278"}},
+          {"localidade": {"id": "35", "nome": "São Paulo"}, "serie": {"2021": "46649132"}},
+          {"localidade": {"id": "53", "nome": "Distrito Federal"}, "serie": {"2021": "..."}}
+        ]
+      }
+    ]
+  }
+]
